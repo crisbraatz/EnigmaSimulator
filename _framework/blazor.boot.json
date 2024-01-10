@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "EnigmaSimulator",
   "resources": {
-    "hash": "sha256-3ABRDS8vuC9EK8Y6V6tExycAk2FtaucLuLw1milyvaI=",
+    "hash": "sha256-8IpklGurIXqpbWpK4qLJWeV9gjHE+BAZ3O63N+rfhx0=",
     "jsModuleNative": {
       "dotnet.native.8.0.1.ahpp78valh.js": "sha256-SGOlISx+3G4kkvpC9Uq3qoPGsnjxGmW61QBev0lyI5U="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "EnigmaSimulator.wasm": "sha256-PRsaXi1i8hv9vRTR8keCGNB4Abai8j6eK7QKKAyvPvw=",
+      "EnigmaSimulator.wasm": "sha256-NLgDtpiA0rOvFrTGUuuSNBi/OzbMKT2gvU1SPKxZLYg=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-+pRNYUmpKFKodR6EB3OS6DqG2Gc+rSKOaTC6V+HKUbM=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-RNAqR0ff+baVaIhI+uEcLo9eT+pxGnBEvkCzqD+3roM=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-Ws5szf6fWPAXna+XyWsAhavx+WDFcA/91DQ7iPRPCMs=",
