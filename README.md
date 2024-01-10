@@ -1,3 +1,3 @@
 # EnigmaSimulator
 
-[Play](https://crisbraatz.github.io/EnigmaSimulator)
+[Play](https://crisbraatz.github.io/EnigmaSimulator/)
